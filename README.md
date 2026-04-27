@@ -16,8 +16,6 @@ Opioid-related Multiple Cause of Death (MCD) data was queried from the Centers f
 
 <br>
 
-<br>
-
 
 <p align="center">
   <img src="figures/dist_of_types_of_opioid_ODs.png" width="700" height="700">
