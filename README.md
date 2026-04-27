@@ -10,3 +10,9 @@ Opioid-related Multiple Cause of Death (MCD) data was queried from the Centers f
   <em>Opioid overdose and prescription rates. Note that opioid overdose rate includes overdoses from all opioids, not necessarily prescription opioids.</em>
 </p>
 
+<p align="center">
+  <img src="figures/dist_of_types_of_opioid_ODs.png" width="700" height="700">
+  <br>
+  <em>Opioid overdoses per year grouped by ICD-10 classification.</em>
+</p>
+
