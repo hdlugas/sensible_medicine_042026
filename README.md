@@ -20,6 +20,6 @@ Opioid-related Multiple Cause of Death (MCD) data was queried from the Centers f
 <p align="center">
   <img src="figures/dist_of_types_of_opioid_ODs.png" width="700" height="700">
   <br>
-  <em>Opioid overdoses per year grouped by ICD-10 classification.</em>
+  <em>Opioid overdose rate per year grouped by ICD-10 classification.</em>
 </p>
 
